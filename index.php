@@ -1,3 +1,4 @@
+ <?php require_once  './tracker.php'; ?>
 <!DOCTYPE html>
 <html lang="en" data-theme="dark">
 <head>
@@ -438,7 +439,7 @@
 
   <div class="hero-image" >
     <!-- Using the provided image -->
-    <img src="/parfet.JPG" alt="Vraj Patel">
+    <img src="./parfet.JPG" alt="Vraj Patel">
   </div>
 
 
@@ -974,3 +975,4 @@
 </script>
 </body>
 </html>
+
